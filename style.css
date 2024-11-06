@@ -1,0 +1,48 @@
+body{
+    padding: 0;
+    margin: 50px;
+}
+
+.topics{
+    font-size: 2em;
+    text-align: center;
+    font-family:'Courier New';
+}
+
+.subs{
+    font-size: 1.3em; 
+    text-align: left;
+    font-family:'Times New Roman';
+}
+
+.wmh{
+    font-size: 3.5em; 
+    font-family: Courier;
+    font-style: normal;
+}
+
+.links{
+    text-align: center;
+    font-size: 1.2em;
+    font-family: Georgia;
+}
+
+#vidG1 video{
+    margin-right: 115px;
+}
+
+#credsUseless{
+    font-size: 0.7em;
+}
+
+#credsUseless{
+    color: white;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em; 
+    border-radius: 0px; 
+    text-align: center;
+}
+
